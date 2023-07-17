@@ -1,0 +1,62 @@
+.pricing-card {
+    width: 300px;
+    height: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(73, 198, 40) transparent transparent;
+    border-image: initial;
+    padding: 20px;
+    border-radius: 5px;
+    backdrop-filter: blur(20px);
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 3px 20px 0px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out 0s;
+    overflow: hidden;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+
+}
+
+.pricing-card:hover {
+    border: 2px solid rgb(73, 198, 40);
+}
+
+.pricing-card h3 {
+    font-size: 40px;
+}
+
+.pricing-card .subscribe {
+    font-weight: normal;
+    font-size: 50px;
+    color: rgb(73, 198, 40);
+}
+
+.pricing-card ul {
+    border-top: 3px solid rgb(73, 198, 40);
+}
+
+.pricing-card ul li {
+    color: rgb(73, 198, 40);
+}
+
+.pricing-card ul li span {
+    color: #fff;
+    margin-left: 10px;
+}
+
+.pricing-card button {
+    display: block;
+    margin: 0px auto;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 8px 15px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background: transparent;
+    transition: all 0.5s ease-in-out 0s;
+}
+
+.pricing-card:hover button {
+    border: 2px solid rgb(73, 198, 40);
+}

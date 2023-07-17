@@ -1,0 +1,4 @@
+.layoutImgHome {
+    background-image: url("../assets/bg-games.jpg") no-repeat center center/cover;
+    height: 100vh;
+}

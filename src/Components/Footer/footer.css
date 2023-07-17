@@ -1,0 +1,19 @@
+footer {
+    border-top: 3px solid transparent;
+    border-image: linear-gradient(0.25turn, rgb(125, 251, 125), rgb(60, 253, 7), rgb(89, 238, 154)) 1 / 1 / 0 stretch;
+    padding-top: 100px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    transition: 0.4s;
+    margin: 10px 0px;
+    cursor: pointer;
+}
