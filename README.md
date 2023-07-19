@@ -19,7 +19,7 @@ I developed this web app using React.js for showing off my skills, The main libr
 
 3_ React Icons for svg icons
 
-4_ React hook form for submition the form
+4_ React hook form for submission the form
 
 5_ Yup for validation the form
 
