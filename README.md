@@ -25,4 +25,4 @@ I developed this web app using React.js for showing off my skills, The main libr
 
 6- React loader spinner when it is loading the data
 
-7_ Swiper from sliders
+7_ Swiper for sliders
